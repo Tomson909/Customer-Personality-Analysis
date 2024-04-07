@@ -8,8 +8,7 @@ __pycache__/
 
 .backup
 # lock file libre office impress
-.odp#
-
+.~lock.Pitch.odp#
 Task/
 # Distribution / packaging
 .Python
