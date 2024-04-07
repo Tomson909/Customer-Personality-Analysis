@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 .backup
+# lock file libre office impress
+.odp#
 
 Task/
 # Distribution / packaging
