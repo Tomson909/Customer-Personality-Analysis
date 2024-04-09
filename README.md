@@ -47,4 +47,11 @@ The dataset serves as a tool for businesses to gain deeper insights into their c
 
 ### Target
 
-Clustering analysis to summarize customer segments.
+Clustering analysis to summarize customer segments. 
+#### Clustering Method
+- Since human behavior is not discret but continous, it makes sense to use **density-based clustering** methods. Also behaviors can overlap. Someone who likes the one think may also like the other thing.
+- Maybe **hierarchical clustering** can be used. But this requires a sufficient amount and or resolution of the data.
+- **Graph-based** methods probably dont find a good application here.
+ 
+
+
